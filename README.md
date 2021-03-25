@@ -36,6 +36,11 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+[GIF](https://i.imgur.com/UdhX7nd.gif)
+![](game.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
@@ -44,35 +49,28 @@ On my honor, all parts of the pre-work for SITE application are my own. I have o
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-Writing index.html and style.css were straightforward and I implemented them pretty quickly – in less than 20 minutes. 
-The challenging part was coding the script.js file. Since I am fluent in Java (at the Sophomore level), I quickly picked up JavaScript’s syntax. 
-I mapped the logic of the script.js file – similar to that shown in step 9 of the pre-work directions – in order to keep all variables, constants, and functions in check. 
-It also helped me trace the code by hand and get a better understanding of it. 
-I have already mastered the use of arrays, functions, constants and variables and therefore altered the frequency of the buttons and playback speed after each turn which were optional features.
+Writing index.html and style.css were straightforward and I implemented them pretty quickly – in less than 20 minutes. The challenging part was coding the script.js file. Since I am fluent in Java (at the Sophomore level), I quickly picked up JavaScript’s syntax. I mapped the logic of the script.js file – similar to that shown in step 9 of the pre-work directions – in order to keep all variables, constants, and functions in check. It also helped me trace the code by hand and get a better understanding of it. I have already mastered the use of arrays, functions, constants and variables and therefore altered the frequency of the buttons and playback speed after each turn which were optional features.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
   
   I have been really interested in web-development as a whole. For example, websites such as Discord have a flowy feel to them, and an excellent UI/UX. It is my aspiration to have a similarly attractive personal website. So here are my questions:
+    
     1.	I have heard of cross-platform integration. Is it possible to write JavaScript and deploy it such that these snippets of code or the whole code itself may be reusable (essentially, to build apps on various platforms)?
+    
     2.	Since there are web-safe fonts, how do certain websites have various fonts that may not be considered web-safe?
+    
     3.	For CSS, is it possible to assign color values by RBG or HEX?
+    
     4.	What role do frameworks and platforms, which we are going to learn, play a role in building websites?
+    
     5.	There are several factors to a website, such as its security. How do we ensure that the built website is secure in all browsers?
+    
     6.	How does the meshing to pure code and front-end such as UI/UX designs work?
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
   
-  Since this was a timed challenge, I read and implemented all mandatory & expected features as fast as possible while preserving precision. 
-  Additionally, I added optional elements to the JavaScript file only. 
-  If I had more time, I definitely would have refactored style.css since the website currently seems a bit bland. 
-  During my childhood I used to play a memory game with cards. It was similar in nature to this game. 
-  There were 52 cards laid out and the player would have to remember the cards overturned in a pattern. 
-  Similar games with slight variances can be found on educational training websites such as Lumosity, Elevate and Brilliant. 
-  Therefore, adding a larger array that has been randomized would have been more fun to play with. 
-  Additionally, this simple memory game can be tweaked and applied to several category of learning, a classic one being educational purposes for children, or even learning a new language.
-
-
+Since this was a timed challenge, I read and implemented all mandatory & expected features as fast as possible while preserving precision. Additionally, I added optional elements to the JavaScript file only. If I had more time, I definitely would have refactored style.css since the website currently seems a bit bland. During my childhood I used to play a memory game with cards. It was similar in nature to this game. There were 52 cards laid out and the player would have to remember the cards overturned in a pattern. Similar games with slight variances can be found on educational training websites such as Lumosity, Elevate and Brilliant. Therefore, adding a larger array that has been randomized would have been more fun to play with. Additionally, this simple memory game can be tweaked and applied to several category of learning, a classic one being educational purposes for children, or even learning a new language.
 
 ## License
 
